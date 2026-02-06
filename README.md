@@ -1,3 +1,5 @@
+# A flutter application that compares the price of alcohol and gas, to provide whats the better deal to full your car.
+
 # flutter_application_1
 
 A new Flutter project.
